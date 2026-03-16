@@ -1,0 +1,1 @@
+cmd_/home/zz/learning-linux-workspace/hello_drv/hello_drv.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/zz/learning-linux-workspace/hello_drv/hello_drv.ko /home/zz/learning-linux-workspace/hello_drv/hello_drv.o /home/zz/learning-linux-workspace/hello_drv/hello_drv.mod.o ;  true
